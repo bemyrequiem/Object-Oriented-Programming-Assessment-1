@@ -1,0 +1,8 @@
+C:\Users\Alfie\OneDrive\Uni Assignments\OOPAssessment2\DiceGame\DiceGame\bin\Debug\DiceGame.exe.config
+C:\Users\Alfie\OneDrive\Uni Assignments\OOPAssessment2\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+C:\Users\Alfie\OneDrive\Uni Assignments\OOPAssessment2\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+C:\Users\Alfie\OneDrive\Uni Assignments\OOPAssessment2\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.AssemblyReference.cache
+C:\Users\Alfie\OneDrive\Uni Assignments\OOPAssessment2\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alfie\OneDrive\Uni Assignments\OOPAssessment2\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\Alfie\OneDrive\Uni Assignments\OOPAssessment2\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+C:\Users\Alfie\OneDrive\Uni Assignments\OOPAssessment2\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
